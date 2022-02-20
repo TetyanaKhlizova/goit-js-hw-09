@@ -20,7 +20,7 @@ img {
   max-width: 600px;
 }
 
-input {
+body > input {
   font-family: 'Trebuchet MS', sans-serif;
   padding: 25px 45px;
   margin-top: 20px;
